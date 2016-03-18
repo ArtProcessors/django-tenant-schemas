@@ -5,5 +5,5 @@
 VERSION
 _build/
 dist/
-django_tenant_schemas.egg-info
+django_tenant_schemas_ap.egg-info
 .idea/
